@@ -34,18 +34,25 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkphoenix2601/Obito)
 
-### Self-hosting (For Devs) ⚔
+
+  <h1>
+    <p align="center">
+        <a href="https://heroku.com/deploy?template=https://github.com/Santiopehv/Obito">
+            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+        </a>
+    </p>
+</h1>
+
+#££ Self-hosting (For Devs) ⚔
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/darkphoenix2601/Obito
 $ cd Obito
 # Upgrade sources
 $ bash deploy.sh
-# Install All Requirements 
-$ pip3 install -r requirements.txt
-# Obito.config.py  and fill
-# Start Bot 
-$ python3 -m Obito
-```
+# Install All Requirements
 
 
+
+
+  
